@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPT-Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_response_empty">Error: The response is empty.</string>
+    <string name="error_unable_to_process_response">Error: Unable to process the response.</string>
+    <string name="response">Response</string>
+    <string name="submit">Submit</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="response_label">Response</string>
+    <string name="SEND" />
+    <string name="error_parsing_json">Error: Unable to parse JSON response. Response: %1$s</string>
+</resources>
