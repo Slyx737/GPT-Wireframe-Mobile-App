@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id responseView
+id submitButton
+id userInput
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string SEND
+string action_settings
+string app_name
+string enter_text_here
+string error_parsing_json
+string error_response_empty
+string error_unable_to_process_response
+string response
+string response_label
+string submit
+style Theme.GPTApplication
+xml backup_rules
+xml data_extraction_rules
